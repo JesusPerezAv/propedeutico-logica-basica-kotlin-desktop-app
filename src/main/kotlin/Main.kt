@@ -4,15 +4,15 @@ fun main ( ) {
     println("INICIO DEL PROGRAMA")
 
 
-    //checarComidaLista()
+    checarComidaLista()
 
-    //checarTipoComida()
+    checarTipoComida()
 
-    //checarPrecio()
+    checarPrecio()
 
-    //calidadServicio()
+    calidadServicio()
 
-   // ofrecerBebida()
+    ofrecerBebida()
 
     contarDinero()
 
